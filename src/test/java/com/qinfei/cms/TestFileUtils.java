@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.qinfei.cms.utils.FileUtils;
+import com.qinfei.utils.FileUtils;
 
 public class TestFileUtils {
 	/*@Test

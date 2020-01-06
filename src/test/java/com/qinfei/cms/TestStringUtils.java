@@ -9,7 +9,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.qinfei.cms.utils.StringUtils;
+import com.qinfei.utils.StringUtils;
 
 public class TestStringUtils {
 

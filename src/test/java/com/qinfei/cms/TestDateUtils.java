@@ -4,13 +4,13 @@ import java.util.Date;
 
 import org.junit.Test;
 
-import com.qinfei.cms.utils.DateUtils;
+import com.qinfei.utils.DateUtils;
 
 public class TestDateUtils {
 	@Test
 	public void testAge() {
 		
-		Date now = new Date(119,10,6);
+		Date now = new Date(118,10,6);
 		int age = DateUtils.getAge(now);
 		System.out.println("age is " + age);
 	}
